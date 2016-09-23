@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+novo nome incluido na lista depois de acesso
+=======
 #Cheirinho de hepta!
 #Damiao, o melhor atacante brasileiro
+>>>>>>> origin/master
