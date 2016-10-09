@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 novo nome incluido na lista depois de acesso
 =======
-#Cheirinho de hepta!
-#Damiao, o melhor atacante brasileiro
+# FLAMENGO 3X0 SANTINHA
 >>>>>>> origin/master
